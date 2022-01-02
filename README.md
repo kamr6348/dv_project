@@ -8,6 +8,10 @@ nesma alaa 1001795
 
 This dataset describes the partcipants of the olympics through out history has as it's attributes name of the partcipant, his age, his nationality, the year of olympics he/she partcipanted in, the sport he/she plays ,the event that he partcipates in and if he won medal or not.
 
+The newly added dataset medals.xlsx contains the teams and number of gold,silver and bronze medals and totalnumber of medals for the team and its rank
+
+The other added  dataset noc_regions contain noc which is abbreviation of each team and region and notes
+
 The project's goal is to explore data and know information about the olympics and get some statistics about the olympics and to clean the data by identifing the missing values and filling them and to handle outliers also and to visualize the data for users to understand.
 
 
@@ -27,3 +31,4 @@ while analysing the data we figured out some questions that helps in exploring t
 10-which gender is taller among swimmers ? 
 11-which sport has the tallest athletes ?
 
+we added two features one to calculate the bmi and the other one is to get if the bmi more than 25 
